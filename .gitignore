@@ -11,4 +11,6 @@
 !/sway/
 !/nvim/
 !/zsh/
+!/ranger/
+!/vlc/
 !/.gitignore
