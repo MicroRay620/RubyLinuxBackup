@@ -1,0 +1,4 @@
+Do in either Mason or do in lua/plugins/lspconfig.lua
+ruby-lsp
+some-sass-language-server 
+tailwindcss-language-server 
