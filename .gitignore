@@ -1,0 +1,14 @@
+# Ignore everything by default
+/*
+
+# Only include the following directories
+!/btop/
+!/niri/
+!/alacritty/
+!/fastfetch/
+!/kate/
+!/qtile/
+!/sway/
+!/nvim/
+!/zsh/
+!/.gitignore

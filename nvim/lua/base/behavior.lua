@@ -1,0 +1,8 @@
+vim.cmd("set autowrite")
+vim.cmd("set ignorecase")
+vim.cmd("set scrolloff=10")
+vim.cmd("set sidescroll=40")
+vim.cmd("set smartcase")
+vim.cmd("set notimeout")
+vim.cmd("set wildmenu")
+vim.cmd("set wildmode=longest,list,full")

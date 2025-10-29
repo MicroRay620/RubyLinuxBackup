@@ -1,0 +1,3 @@
+return {
+    "NTBBloodbath/galaxyline.nvim"
+}

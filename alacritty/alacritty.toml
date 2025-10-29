@@ -1,0 +1,9 @@
+# Window
+[window]
+opacity = 0.6
+# Fonts
+[font.normal]
+family = "DaddyTimeMono Nerd Font Propo"
+style = "regular"
+[font]
+size = 11.85
