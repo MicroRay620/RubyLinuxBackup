@@ -13,4 +13,7 @@
 !/zsh/
 !/ranger/
 !/vlc/
+!/ghostty/
+!/fish/
 !/.gitignore
+!/starship.toml
